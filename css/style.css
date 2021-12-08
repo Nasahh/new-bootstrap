@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100;400;500;600&display=swap');
+
+#header{
+    font-family: 'Sora',sans-serif; 
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Sora' sans-serif;
+}
+
+
+.join{
+    color: white;
+}
+
+.hero{
+    position: relative;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url('../img/cover.jpg');
+}
+
+.hero-child{
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.55);
+    z-index: 2;
+    height: 100%;
+    width: 100%;
+}
+
+.font{
+    font-size: 13px;
+}
+
+
+ .size{
+     border-style: initial;
+     border-top-width: initial;
+ }
+
+#selected-icon{
+    font-size: 30px;
+    background-color: #1484CD;
+    color: white;
+    padding: 9px;
+    border-radius: 50%;
+}
+
+div>ul>li>a>button.btn-primary{
+    font-weight: normal;
+    font-size: 13px;
+}
+
+h1.head.mb-3 {
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+#headd{
+    font-weight: bolder;
+}
+
+.drake{
+    background-color: grey;
+}
+
+#padding-off{
+    padding-left: 0px;
+}
+
+#padding-right{
+    padding-right: 0px;
+}
+
+div.container-fluid>div.modification>div {
+    padding: 0px;
+}
+
+div>img.rounded-circle {
+    width: 120px;
+}
+
+#foot{
+    border: 0px;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity));
+    padding: 0px;
+}
+
+div.container>div.row>div.col-lg-10>div.row>div>input.form-control{
+    font-family: "Sora", sans-serif;
+    font-size: small;
+    background-color: #F9F9FF;
+}
+
+#areatext{
+    background-color: #F9F9FF;
+    font-size: small;
+    font-family: "Sora", sans-serif;    
+    
+}
+
+#button-font{
+    font-size: small;
+    font-family: "Sora", sans-serif;    
+}
+    
+#size{
+    font-size: x-large;
+
+}
+
+div.container>div.row>div.col-md-3>div.card>div.card-body>ul.list-group-horizontal li {
+    border: 0px;
+}
+
+#lifestyle {
+    background-color: ghostwhite;
+    padding: 0px;
+    margin: 3px;
+}
+
+.background{
+    background-color: #F9F9FF;
+    font-family: "Sora", sans-serif;
+    font-size: small;    
+}
+
+#anthony{
+    padding: 0px;
+}
+
+.antra{
+    height: 100%;
+    width: 100%;
+}
+
+.flexit{
+    font-family: "Sora", sans-serif;
+    font-size: small;    
+}
