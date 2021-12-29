@@ -61,9 +61,6 @@ h1.head.mb-3 {
     font-weight: bolder;
 }
 
-.drake{
-    background-color: grey;
-}
 
 #padding-off{
     padding-left: 0px;
@@ -87,7 +84,8 @@ div>img.rounded-circle {
     padding: 0px;
 }
 
-div.container>div.row>div.col-lg-10>div.row>div>input.form-control{
+
+div>input.form-control{
     font-family: "Sora", sans-serif;
     font-size: small;
     background-color: #F9F9FF;
@@ -108,10 +106,6 @@ div.container>div.row>div.col-lg-10>div.row>div>input.form-control{
 #size{
     font-size: x-large;
 
-}
-
-div.container>div.row>div.col-md-3>div.card>div.card-body>ul.list-group-horizontal li {
-    border: 0px;
 }
 
 #lifestyle {
